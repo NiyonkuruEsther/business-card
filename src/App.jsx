@@ -8,7 +8,7 @@ function App() {
     <div className="flex flex-col h-screen justify-center bg-black">
       <div className="rounded-3xl bg-gray-100 max-w-sm mx-auto flex flex-col gap-8 m-4 overflow-hidden cont ring-8 fill-neutral-700">
         <img
-          src="../src/assets/img.png"
+          src="https://i.postimg.cc/pV1wjK6x/Rectangle-90-1.png"
           alt=""
           className="w-full max-h-80 object-cover"
         />
